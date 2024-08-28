@@ -67,7 +67,7 @@ All models featured similar TNR of >= 95%. However, GPT-4o is more accurate than
 
 ## Implementation Details
 
-The rest of the article will walkthough implmentation details. You can find our opensource implementation in [this repo](https://github.com/LambdaLabsML/langsmith-experiments).
+The rest of the article will walkthough implmentation details. You can find our opensource implementation in [this repo](https://github.com/LambdaLabsML/llm-application-evaluation).
 
 **Repository organization**
 ```
